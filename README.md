@@ -24,11 +24,13 @@ A simple Web application built with **Node.js**, **Express**, and **Redis**, ful
 Run the application:
 
 Bash
+
 docker-compose up --build
 Access in Browser:
 Open your browser and navigate to:
 
 Plaintext
+
 http://localhost:8081
 Refresh the page to see the visit counter increment!
 
